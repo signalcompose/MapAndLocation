@@ -1,5 +1,5 @@
 # MapAndLocation
-MapKitとCoreLocationをSwift2.0で使うサンプル
+MapKitとCoreLocationをSwiftUI2.0で使うサンプル
 
 こちらのチュートリアルを参考にしたが、いくつか修正している。 
 https://youtu.be/eDUErLFFgNo 
